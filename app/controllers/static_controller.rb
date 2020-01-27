@@ -1,5 +1,5 @@
 class StaticController < ApplicationController
-  def about
+  def hello_world
     # not needed for implicit view rendering
     # render "hello_world"
   end
